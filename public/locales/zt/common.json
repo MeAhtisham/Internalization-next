@@ -1,0 +1,95 @@
+{
+  "title": "YouTube 短片視頻下載",
+  "description": "免費下載 YouTube 短片視頻",
+  "search_text": "在此處粘貼您的 Youtube 鏈接",
+  "get_video": "獲取視頻",
+  "wrong_url": "輸入的網址有誤",
+  "home": "家",
+  "blog": "Blog",
+  "contact_us": "聯繫我們",
+  "feature": {
+    "title": "YouTube 短片視頻下載功能",
+    "description": "頂級功能列表",
+    "features1": [
+      {
+        "title": "快速下載",
+        "description": "以超快的速度下載 YouTube 短片視頻。我們不限制下載視頻的帶寬。",
+        "alt": "快速下載"
+      },
+      {
+        "title": "沒有限制",
+        "description": "下載盡可能多的視頻。下載短片視頻無需註冊或登錄。",
+        "alt": "沒有限制"
+      },
+      {
+        "title": "完全安全",
+        "description": "您的設備上沒有惡意軟件的風險。我們的網站使用 HTTPS 協議完全安全。下載無憂。",
+        "alt": "完全安全"
+      }
+    ],
+    "features2": [
+      {
+        "title": "選擇質量",
+        "description": "You can download videos of different quality, with or without sound. Select the video quality and it will download the video.",
+        "alt": "選擇質量"
+      },
+      {
+        "title": "方便使用的",
+        "description": "我們的網站專為移動用戶設計。完全用戶友好的網站，讓您的工作更加輕鬆。",
+        "alt": "方便使用的"
+      },
+      {
+        "title": "免費使用",
+        "description": "完全免費下載短片視頻。我們不要求下載任何訂閱或登錄信息。",
+        "alt": "免費使用"
+      }
+    ]
+  },
+  "downloader": {
+    "title": "YouTube 短片視頻下載器",
+    "description": "無法在官方 YouTube 應用中下載 YouTube 短片視頻。要從 YouTube 短片下載視頻，您必須使用我們的網站。您可以為我們的網站添加書籤以備將來再次使用。無論如何，如果您有 YouTube 短片視頻 URL，您可以將視頻下載到您的設備。我們的網站直接將視頻從 YouTube 服務器下載到您的設備。",
+    "share": "分享這個網站..."
+  },
+
+  "shorts": {
+    "title": "什麼是 YouTube 短片",
+    "description": "YouTube 短片提供短片視頻內容。 <strong>YouTube 推出 YouTube 短片 </strong>與其他應用程序（如 Tiktok、Instagram 捲軸）競爭。您不需要任何額外的應用程序來觀看 YouTube 短片。它集成在官方 <strong>YouTube</strong> 應用程序.",
+    "sub_description": "通過您的移動設備觀看 YouTube 短片中的無盡內容。觀看您選擇的短片視頻。如果您對長片視頻內容感到厭煩，<strong> YouTube 短片提供 1 分鐘以內的視頻供您娛樂。</strong>"
+  },
+  "how_to_make": {
+    "title": "如何製作 YouTube Shorts 視頻",
+    "description": "要製作 YouTube Shorts 視頻，請按照以下簡單步驟操作。",
+    "step1": "1. 從您的手機打開 YouTube 應用。",
+    "step2": "2. 單擊中間的 + 圖標。",
+    "step3": "3.點擊“創建一個短”按鈕..",
+    "follow": "現在按照屏幕上的說明製作 YouTube 短片視頻。"
+  },
+  "how_to_download": {
+    "title": "如何下載 YouTube 短片",
+    "description": "按照以下簡單步驟將 YouTube 短片視頻下載到您的設備。",
+    "step1": "1. 打開您要下載的 YouTube Shorts 視頻。",
+    "step2": "2. 點擊分享圖標..",
+    "step3": "3. 選擇“複製鏈接”選項將 URL 複製到剪貼板。",
+    "step4": "4.在我們的網站輸入視頻網址，點擊下載選項",
+    "finish": "現在按照屏幕上的說明製作 YouTube 短片視頻。"
+  },
+  "faqs": {
+    "title": "YouTube 短片下載常見問題解答",
+    "faq1": {
+      "title": "我們可以使用這個網站下載普通的 YouTube 視頻嗎？",
+      "description": "我們可以使用這個網站下載普通的 YouTube 視頻嗎？"
+    },
+    "faq2": {
+      "title": "我可以在任何地方使用這些視頻嗎？",
+      "description": "在任何地方使用視頻之前，請確保獲得內容創建者的許可。"
+    },
+    "faq3": {
+      "title": "桌面版可以使用 YouTube 短片嗎？",
+      "description": "目前，YouTube 短片僅適用於移動設備。將來，他們可能會也可能不會提供對桌面的支持。"
+    },
+    "faq4": {
+      "title": " YouTube 短視頻的長度是多少？",
+      "description": "YouTube 短視頻通常不超過 60 秒。"
+    }
+  }
+}

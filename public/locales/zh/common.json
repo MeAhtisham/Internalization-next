@@ -1,0 +1,95 @@
+{
+  "title": "YouTube 短片视频下载",
+  "description": "免费下载 YouTube 短片视频",
+  "search_text": "Paste your Youtube link here",
+  "get_video": "获取视频",
+  "wrong_url": "输入的网址有误",
+  "home": "家",
+  "blog": "博客",
+  "contact_us": "联系我们",
+  "feature": {
+    "title": "YouTube 短片视频下载功能",
+    "description": "顶级功能列表",
+    "features1": [
+      {
+        "title": "快速下载",
+        "description": "以超快的速度下载 YouTube 短片视频。我们不限制下载视频的带宽。",
+        "alt": "快速下载"
+      },
+      {
+        "title": "没有限制",
+        "description": "下载尽可能多的视频。下载短片视频无需注册或登录。",
+        "alt": "没有限制"
+      },
+      {
+        "title": "完全安全",
+        "description": "您的设备上没有恶意软件的风险。我们的网站使用 HTTPS 协议完全安全。下载无忧",
+        "alt": "完全安全"
+      }
+    ],
+    "features2": [
+      {
+        "title": "选择质量",
+        "description": "您可以下载不同质量的视频，无论是否有声音。选择视频质量，它将下载视频。",
+        "alt": "选择质量"
+      },
+      {
+        "title": "方便使用的",
+        "description": "我们的网站专为移动用户设计。完全用户友好的网站，让您的工作更加轻松。",
+        "alt": "方便使用的"
+      },
+      {
+        "title": "免费使用",
+        "description": "完全免费下载短片视频。我们不要求下载任何订阅或登录信息。",
+        "alt": "免费使用"
+      }
+    ]
+  },
+  "downloader": {
+    "title": "YouTube 短片视频下载器",
+    "description": "无法在官方 YouTube 应用中下载 YouTube 短片视频。要从 YouTube 短片下载视频，您必须使用我们的网站。您可以为我们的网站添加书签以备将来再次使用。无论如何，如果您有 YouTube 短片视频 URL，您可以将视频下载到您的设备。我们的网站直接将视频从 YouTube 服务器下载到您的设备。",
+    "share": "分享这个网站..."
+  },
+
+  "shorts": {
+    "title": "什么是 YouTube 短片",
+    "description": "YouTube 短片提供短片视频内容. <strong>YouTube 推出 YouTube 短片 </strong>与其他应用程序（如 Tiktok、Instagram 卷轴）竞争。您不需要任何额外的应用程序来观看 YouTube 短片。它集成在官方 <strong>YouTube 中</strong> 应用程序。",
+    "sub_description": "通过您的移动设备观看 YouTube 短片中的无尽内容。以简短的形式观看您选择的视频。如果您厌倦了长视频内容,<strong> YouTube 短片提供 1 分钟以内的视频供您娱乐。</strong>"
+  },
+  "how_to_make": {
+    "title": "如何制作 YouTube Shorts 视频",
+    "description": "要制作 YouTube Shorts 视频，请按照以下简单步骤操作。",
+    "step1": "1. 从您的手机打开 YouTube 应用。",
+    "step2": "2. 单击中间的 + 图标",
+    "step3": "3. 点击“创建一个短”按钮..",
+    "follow": "现在按照屏幕上的说明制作 YouTube 短片视频。"
+  },
+  "how_to_download": {
+    "title": "如何下载 YouTube 短片",
+    "description": "按照以下简单步骤将 YouTube 短片视频下载到您的设备。",
+    "step1": "1. 打开您要下载的 YouTube Shorts 视频。",
+    "step2": "2. 点击分享图标..",
+    "step3": "3. 选择“复制链接”选项将 URL 复制到剪贴板。",
+    "step4": "4.在我们的网站输入视频网址，点击下载选项",
+    "finish": "现在按照屏幕上的说明制作 YouTube 短片视频。"
+  },
+  "faqs": {
+    "title": "YouTube 短片下载常见问题解答",
+    "faq1": {
+      "title": "我们可以使用这个网站下载普通的 YouTube 视频吗？",
+      "description": "是的，您可以下载它们。下载普通 YouTube 视频的过程是相同的"
+    },
+    "faq2": {
+      "title": "我可以在任何地方使用这些视频吗？",
+      "description": "在任何地方使用视频之前，请确保获得内容创建者的许可。"
+    },
+    "faq3": {
+      "title": "桌面版可以使用 YouTube 短片吗？",
+      "description": "目前，YouTube 短片仅适用于移动设备。将来，他们可能会也可能不会提供对桌面的支持。"
+    },
+    "faq4": {
+      "title": " YouTube 短视频的长度是多少？",
+      "description": "YouTube 短视频通常不超过 60 秒。"
+    }
+  }
+}

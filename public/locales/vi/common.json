@@ -1,0 +1,95 @@
+{
+  "title": "Tải xuống video quần đùi trên YouTube",
+  "description": "Tải xuống video ngắn trên YouTube miễn phí",
+  "search_text": "Dán liên kết Youtube của bạn vào đây",
+  "get_video": "Tải video",
+  "wrong_url": "Url đã nhập sai",
+  "home": "Nhà",
+  "blog": "Blog",
+  "contact_us": "Liên hệ chúng tôi",
+  "feature": {
+    "title": "Tính năng tải xuống video ngắn trên YouTube",
+    "description": "Danh sách các tính năng hàng đầu",
+    "features1": [
+      {
+        "title": "Tải xuống nhanh",
+        "description": "Tải xuống các video ngắn trên YouTube với tốc độ cực nhanh. Chúng tôi không giới hạn băng thông để tải video.",
+        "alt": "Tải xuống nhanh"
+      },
+      {
+        "title": "Không giới hạn",
+        "description": "Tải xuống bao nhiêu video tùy thích. Không cần đăng ký hoặc đăng nhập để tải xuống video ngắn.",
+        "alt": "Không giới hạn"
+      },
+      {
+        "title": "Hoàn toàn an toàn",
+        "description": "Không có phần mềm độc hại trên thiết bị của bạn. Trang web của chúng tôi hoàn toàn an toàn với giao thức HTTPS. Tải xuống không lo lắng.",
+        "alt": "Hoàn toàn an toàn"
+      }
+    ],
+    "features2": [
+      {
+        "title": "Chọn chất lượng",
+        "description": "Bạn có thể tải xuống các video có chất lượng khác nhau, có hoặc không có âm thanh. Chọn chất lượng video và nó sẽ tải video xuống.",
+        "alt": "Chọn chất lượng"
+      },
+      {
+        "title": "Thân thiện với người dùng",
+        "description": "Trang web của chúng tôi được thiết kế đặc biệt cho người dùng di động. Trang web hoàn toàn thân thiện với người dùng để giúp công việc của bạn trở nên dễ dàng hơn.",
+        "alt": "Thân thiện với người dùng"
+      },
+      {
+        "title": "Dùng miễn phí",
+        "description": "Hoàn toàn miễn phí để tải xuống video ngắn. Chúng tôi không yêu cầu bất kỳ thông tin đăng ký hoặc đăng nhập nào để tải xuống.",
+        "alt": "Dùng miễn phí"
+      }
+    ]
+  },
+  "downloader": {
+    "title": "Trình tải xuống video ngắn trên YouTube",
+    "description": "Không thể tải xuống video ngắn trên YouTube trong ứng dụng YouTube chính thức. Để tải xuống video từ YouTube ngắn, bạn phải sử dụng trang web của chúng tôi. Bạn có thể đánh dấu trang web của chúng tôi để sử dụng lại trong tương lai. Dù sao, nếu bạn có URL video ngắn trên YouTube, bạn có thể tải video xuống thiết bị của mình. Trang web của chúng tôi tải trực tiếp video từ máy chủ YouTube xuống thiết bị của bạn.",
+    "share": "Chia sẻ trang web này ..."
+  },
+
+  "shorts": {
+    "title": "Quần short trên YouTube là gì",
+    "description": "YouTube short cung cấp nội dung video dạng ngắn. <strong>YouTube ra mắt video ngắn trên YouTube </strong>để cạnh tranh với các ứng dụng khác như Tiktok, Instagram. Bạn không cần thêm bất kỳ ứng dụng nào để xem video ngắn trên YouTube. Nó được tích hợp trong chính thức <strong>YouTube</strong> ứng dụng.",
+    "sub_description": "Xem nội dung vô tận trên YouTube ngắn qua thiết bị di động của bạn. Xem video bạn chọn ở dạng ngắn. Nếu bạn cảm thấy nhàm chán với nội dung video dài,<strong> Các video ngắn trên YouTube đã cung cấp các video dưới 1 phút để bạn giải trí.</strong>"
+  },
+  "how_to_make": {
+    "title": "Cách tạo video ngắn trên YouTube",
+    "description": "Để tạo video ngắn trên YouTube, hãy làm theo các bước đơn giản dưới đây.",
+    "step1": "1. Mở ứng dụng YouTube từ điện thoại của bạn.",
+    "step2": "2. Nhấp vào + Biểu tượng từ giữa.",
+    "step3": "3. Nhấn vào nút “Tạo một đoạn ngắn” ..",
+    "follow": "Bây giờ, hãy làm theo hướng dẫn trên màn hình để tạo video ngắn trên YouTube."
+  },
+  "how_to_download": {
+    "title": "Cách tải xuống quần short trên YouTube",
+    "description": "Làm theo các bước đơn giản dưới đây để tải video ngắn trên YouTube về thiết bị của bạn.",
+    "step1": "1. Mở video Quần ngắn trên YouTube mà bạn muốn tải xuống.",
+    "step2": "2. Nhấp vào biểu tượng Chia sẻ ..",
+    "step3": "3. Chọn tùy chọn \"Sao chép liên kết\" để sao chép URL vào khay nhớ tạm của bạn.",
+    "step4": "4. Nhập URL Video vào trang web của chúng tôi, nhấp vào tùy chọn Tải xuống",
+    "finish": "Bây giờ, hãy làm theo hướng dẫn trên màn hình để tạo video ngắn trên YouTube."
+  },
+  "faqs": {
+    "title": "Câu hỏi thường gặp về Tải xuống từ YouTube Shorts",
+    "faq1": {
+      "title": "Chúng tôi có thể tải xuống các video YouTube bình thường bằng cách sử dụng trang web này không?",
+      "description": "Có, bạn có thể tải chúng xuống. Quá trình tải xuống các video YouTube bình thường cũng giống như vậy."
+    },
+    "faq2": {
+      "title": "Tôi có thể sử dụng những video này ở bất cứ đâu không?",
+      "description": "Đảm bảo xin phép người sáng tạo nội dung trước khi sử dụng video ở bất kỳ đâu."
+    },
+    "faq3": {
+      "title": "Bản ngắn của YouTube có sẵn cho Máy tính để bàn không?",
+      "description": "Hiện tại, video ngắn của YouTube chỉ hoạt động trên thiết bị di động. Trong tương lai, họ có thể hoặc có thể không cung cấp hỗ trợ cho máy tính để bàn."
+    },
+    "faq4": {
+      "title": "Thời lượng của Video ngắn trên YouTube là bao nhiêu?",
+      "description": "Các video ngắn trên YouTube thường có thời lượng dưới 60 giây."
+    }
+  }
+}

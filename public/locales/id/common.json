@@ -1,0 +1,96 @@
+{
+  "title": "Unduh Video Pendek YouTube",
+  "description": "Unduh video pendek YouTube secara gratis",
+  "search_text": "Tempelkan tautan Youtube Anda di sini",
+  "get_video": "Dapatkan Video",
+  "wrong_url": "Url yang dimasukkan salah",
+  "share": "Bagikan situs ini...",
+  "home": "Rumah",
+  "blog": "Blog",
+  "contact_us": "Contact Us",
+  "feature": {
+    "title": "Fitur Unduhan Video Pendek YouTube",
+    "description": "Daftar fitur teratas    ",
+    "features1": [
+      {
+        "title": "Mengunduh Cepat",
+        "description": " Unduh video pendek YouTube dengan kecepatan sangat cepat. Kami tidak membatasi bandwidth untuk mengunduh video.",
+        "alt": "Mengunduh Cepat"
+      },
+      {
+        "title": "Tidak terbatas",
+        "description": "Unduh sebanyak mungkin video yang ingin Anda unduh. Tidak perlu mendaftar atau masuk untuk mengunduh video pendek.",
+        "alt": "Tidak terbatas"
+      },
+      {
+        "title": "Sepenuhnya Aman",
+        "description": "Tidak ada risiko malware di perangkat Anda. Situs web kami sepenuhnya aman dengan protokol HTTPS. Unduh tanpa khawatir.",
+        "alt": "Sepenuhnya Aman"
+      }
+    ],
+    "features2": [
+      {
+        "title": "Pilih Kualitas",
+        "description": "Anda dapat mengunduh video dengan kualitas berbeda, dengan atau tanpa suara. Pilih kualitas video dan itu akan mengunduh video.",
+        "alt": "Pilih Kualitas"
+      },
+      {
+        "title": "Mudah digunakan",
+        "description": "Situs web kami dirancang khusus untuk pengguna seluler. Situs web yang sepenuhnya ramah pengguna untuk membuat pekerjaan Anda lebih mudah.",
+        "alt": "Mudah digunakan"
+      },
+      {
+        "title": "Gratis untuk Digunakan",
+        "description": "Sepenuhnya gratis untuk mengunduh video pendek. Kami tidak meminta informasi berlangganan atau login apa pun untuk diunduh.",
+        "alt": "Gratis untuk Digunakan"
+      }
+    ]
+  },
+  "downloader": {
+    "title": "Pengunduh Video Pendek YouTube",
+    "description": "Mengunduh video pendek YouTube di aplikasi YouTube resmi tidak dimungkinkan. Untuk mengunduh video dari video pendek YouTube, Anda harus menggunakan situs web kami. Anda dapat menandai situs web kami untuk menggunakannya lagi di masa mendatang. Bagaimanapun, Jika Anda memiliki URL video pendek YouTube, Anda dapat mengunduh video ke perangkat Anda. Situs web kami langsung mengunduh video dari server YouTube ke perangkat Anda.",
+    "share": "Bagikan situs ini..."
+  },
+
+  "shorts": {
+    "title": "Apa itu Shorts YouTube?",
+    "description": "Video pendek YouTube menyediakan konten video berdurasi pendek. <strong>YouTube meluncurkan video pendek YouTube </strong>untuk bersaing dengan aplikasi lain seperti Tiktok, gulungan Instagram. Anda tidak memerlukan aplikasi tambahan untuk menonton video pendek YouTube. Itu terintegrasi dalam resmi <strong>YouTube</strong> aplikasi.",
+    "sub_description": "Tonton konten tanpa akhir dalam video pendek YouTube melalui perangkat seluler Anda. Tonton video pilihan Anda dalam bentuk singkat. Jika Anda bosan dengan konten video berdurasi panjang,<strong> Video pendek YouTube menyediakan video di bawah 1 menit untuk hiburan Anda.</strong>"
+  },
+  "how_to_make": {
+    "title": "Cara Membuat Video Pendek YouTube",
+    "description": "Untuk membuat video YouTube Shorts, ikuti langkah-langkah mudah di bawah ini.",
+    "step1": "1. Buka aplikasi YouTube dari ponsel Anda.",
+    "step2": "2. Klik + Ikon dari tengah.",
+    "step3": "3. Tekan tombol \"Buat Singkat\"..",
+    "follow": "Sekarang ikuti petunjuk di layar untuk membuat video pendek YouTube."
+  },
+  "how_to_download": {
+    "title": "Cara Mengunduh Video Pendek YouTube",
+    "description": "Ikuti langkah-langkah sederhana di bawah ini untuk mengunduh video pendek YouTube ke perangkat Anda.",
+    "step1": "1. Buka video YouTube Shorts yang ingin Anda unduh.",
+    "step2": "2. Klik ikon Bagikan..",
+    "step3": "3. Pilih opsi \"Salin tautan\" untuk menyalin URL ke papan klip Anda.",
+    "step4": "4. Masukkan URL Video di situs web kami, klik opsi Unduh",
+    "finish": "Sekarang ikuti petunjuk di layar untuk membuat video pendek YouTube."
+  },
+  "faqs": {
+    "title": "FAQ untuk YouTube Shorts Downloadinstruksi untuk membuat video pendek YouTube.",
+    "faq1": {
+      "title": "Bisakah kita mengunduh video YouTube normal menggunakan situs web ini?",
+      "description": "Ya, Anda dapat mengunduhnya. Prosesnya sama untuk mengunduh video YouTube biasa."
+    },
+    "faq2": {
+      "title": "Dapatkah saya menggunakan video ini di mana saja?",
+      "description": "Pastikan untuk mendapatkan izin pembuat konten sebelum menggunakan video di mana saja."
+    },
+    "faq3": {
+      "title": "Apakah video pendek YouTube tersedia untuk Desktop?",
+      "description": "Untuk saat ini, video pendek YouTube hanya berfungsi di perangkat seluler. Di masa depan, mereka mungkin atau mungkin tidak memberikan dukungan untuk desktop."
+    },
+    "faq4": {
+      "title": "Berapa panjang Video Pendek YouTube?",
+      "description": "Video pendek YouTube umumnya berdurasi di bawah 60 detik."
+    }
+  }
+}

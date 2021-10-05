@@ -1,0 +1,96 @@
+{
+  "title": "Pag-download ng Video ng Shorts ng YouTube",
+  "description": "Mag-download ng mga video ng shorts sa YouTube nang libre",
+  "search_text": "Idikit dito ang iyong link sa Youtube",
+  "get_video": "Kumuha ng Video",
+  "wrong_url": "Mali ang ipinasok ni Url",
+  "share": "Ibahagi ang site na ito ...",
+  "home": "Bahay",
+  "blog": "Blog",
+  "contact_us": "Makipag-ugnayan sa amin",
+  "feature": {
+    "title": "Mga Tampok sa Pag-download ng Video ng Mga Shorts ng YouTube",
+    "description": "Listahan ng mga nangungunang tampok",
+    "features1": [
+      {
+        "title": "Mabilis na Pag-download",
+        "description": " Mag-download ng mga video ng shorts sa YouTube na may napakabilis na bilis. Hindi namin nililimitahan ang bandwidth para sa pag-download ng mga video.",
+        "alt": "Mabilis na Pag-download"
+      },
+      {
+        "title": "Walang limitasyon",
+        "description": "Mag-download ng maraming mga video hangga't nais mong i-download. Walang kinakailangang pag-sign up o pag-login upang mag-download ng mga maikling video.",
+        "alt": "Walang limitasyon"
+      },
+      {
+        "title": "Ganap na Secure",
+        "description": "Walang peligro ng malware sa iyong aparato. Ang aming website ay ganap na ligtas sa HTTPS protocol. Walang alalahanin na pag-download.",
+        "alt": "Ganap na Secure"
+      }
+    ],
+    "features2": [
+      {
+        "title": "Piliin ang Kalidad",
+        "description": "Maaari kang mag-download ng mga video na may iba't ibang kalidad, mayroon o walang tunog. Piliin ang kalidad ng video at i-download nito ang video.",
+        "alt": "Piliin ang Kalidad"
+      },
+      {
+        "title": "User-Friendly",
+        "description": "Ang aming website ay espesyal na idinisenyo para sa mga mobile na gumagamit. Ganap na user-friendly website upang gawing mas madali ang iyong trabaho.",
+        "alt": "User-Friendly"
+      },
+      {
+        "title": "Libreng Magamit",
+        "description": "Ganap na malayang mag-download ng mga video ng shorts. Hindi kami humihingi ng anumang impormasyon sa subscription o pag-login upang ma-download.",
+        "alt": "Libreng Magamit"
+      }
+    ]
+  },
+  "downloader": {
+    "title": "Nag-i-download ng Video ang Shorts ng YouTube",
+    "description": "Ang pag-download ng video ng YouTube shorts sa opisyal na YouTube app ay hindi posible. Upang mag-download ng mga video mula sa YouTube shorts, kailangan mong gamitin ang aming website. Maaari mong i-bookmark ang aming website upang magamit ito muli sa hinaharap. Anyways, Kung Mayroon kang URL ng video sa shorts sa YouTube, maaari mong i-download ang video sa iyong aparato. Ang aming website ay direktang mag-download ng mga video mula sa server ng YouTube patungo sa iyong aparato.",
+    "share": "Ibahagi ang site na ito ..."
+  },
+
+  "shorts": {
+    "title": "Ano ang Shorts ng YouTube",
+    "description": "Nagbibigay ang YouTube shorts ng maikling nilalaman na nilalaman ng video. <strong>Inilunsad ng YouTube ang YouTube shorts </strong>upang makipagkumpitensya sa iba pang mga app tulad ng Tiktok, Instagram rol. Hindi mo kailangan ng anumang labis na app upang makapanood ng mga shorts sa YouTube. Ito ay isinama sa loob ng opisyal <strong>YouTube</strong> app.",
+    "sub_description": "Manood ng walang katapusang nilalaman sa YouTube shorts sa pamamagitan ng iyong mga mobile device. Manood ng mga video na iyong pinili sa maikling form. Kung nababagot ka sa nilalaman ng video na matagal nang form,<strong>Ang mga YouTube shorts ay nagbigay ng mga video na wala pang 1 minuto para sa iyong libangan.</strong>"
+  },
+  "how_to_make": {
+    "title": "Paano Gumawa ng Video sa Shorts ng YouTube",
+    "description": "Upang makagawa ng isang YouTube Shorts na video, sundin ang mga madaling hakbang sa ibaba.",
+    "step1": "1. Buksan ang YouTube app mula sa iyong telepono.",
+    "step2": "2. Mag-click sa + Icon mula sa gitna.",
+    "step3": "3. Pindutin ang pindutang \"Lumikha ng isang Maikling\" ..",
+    "follow": "Sundin ngayon ang mga tagubilin sa screen upang makagawa ng isang video sa YouTube shorts."
+  },
+  "how_to_download": {
+    "title": "Paano Mag-download ng Mga Shorts sa YouTube",
+    "description": "Sundin ang mga simpleng hakbang sa ibaba upang i-download ang video ng YouTube sa iyong aparato.",
+    "step1": "1. Buksan ang video ng Shorts ng YouTube na nais mong i-download.",
+    "step2": "2. Mag-click sa icon na Ibahagi ..",
+    "step3": "3. Piliin ang opsyong \"Kopyahin ang link\" upang kopyahin ang URL sa iyong clipboard.",
+    "step4": "4. Ipasok ang Video URL sa aming website, mag-click sa pagpipilian sa Pag-download",
+    "finish": "Sundin ngayon ang mga tagubilin sa screen upang makagawa ng isang video sa YouTube shorts."
+  },
+  "faqs": {
+    "title": "Mga FAQ para sa Pag-download ng Shorts ng YouTube",
+    "faq1": {
+      "title": "Maaari ba kaming mag-download ng mga normal na video sa YouTube gamit ang website?",
+      "description": "Oo, maaari mong i-download ang mga ito. Ang proseso ay pareho para sa pag-download ng mga normal na video sa YouTube."
+    },
+    "faq2": {
+      "title": "Maaari ko bang gamitin ang mga video na ito kahit saan?",
+      "description": "Tiyaking makukuha ang pahintulot ng tagalikha ng nilalaman bago gamitin ang video saanman."
+    },
+    "faq3": {
+      "title": "Magagamit ba ang YouTube shorts para sa Desktop?",
+      "description": "Sa ngayon, gagana lang ang YouTube shorts sa mga mobile device. Sa hinaharap, maaari silang magbigay o hindi maaaring magbigay ng suporta para sa desktop."
+    },
+    "faq4": {
+      "title": " Ano ang haba ng Mga Video na Shorts ng YouTube?",
+      "description": "Ang mga video ng YouTube shorts ay karaniwang wala pang 60 segundo."
+    }
+  }
+}

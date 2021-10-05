@@ -1,0 +1,95 @@
+{
+  "title": "Download de vídeos de curtas do YouTube",
+  "description": "Baixe vídeos de curtas do YouTube gratuitamente",
+  "search_text": "Cole seu link do Youtube aqui",
+  "get_video": "Obter vídeo",
+  "wrong_url": "Url inserido está errado",
+  "home": "Casa",
+  "blog": "Blog",
+  "contact_us": "Entre em contato conosco",
+  "feature": {
+    "title": "Recursos de download de vídeos de curtas do YouTube",
+    "description": "Lista dos principais recursos",
+    "features1": [
+      {
+        "title": "Download rápido",
+        "description": "Baixe vídeos de curtas do YouTube em velocidade ultra-rápida. Não limitamos a largura de banda para download de vídeos.",
+        "alt": "Download rápido"
+      },
+      {
+        "title": "Sem Limite",
+        "description": "Baixe quantos vídeos você deseja baixar. Não é necessário inscrição ou login para baixar vídeos de curtas.",
+        "alt": "Sem Limite"
+      },
+      {
+        "title": "Totalmente Seguro",
+        "description": "Nenhum risco de malware em seu dispositivo. Nosso site é totalmente seguro com o protocolo HTTPS. Download sem preocupações.",
+        "alt": "Totalmente Seguro"
+      }
+    ],
+    "features2": [
+      {
+        "title": "Selecione a qualidade",
+        "description": "Você pode baixar vídeos de qualidade diferente, com ou sem som. Selecione a qualidade do vídeo e ele fará o download do vídeo.",
+        "alt": "Selecione a qualidade"
+      },
+      {
+        "title": "Amigo do usuário",
+        "description": "Nosso site foi projetado especialmente para usuários móveis. Site totalmente amigável para tornar seu trabalho ainda mais fácil.",
+        "alt": "Amigo do usuário"
+      },
+      {
+        "title": "Livre para usar",
+        "description": "Totalmente gratuito para baixar vídeos de curtas. Não solicitamos nenhuma inscrição ou informações de login para fazer o download.",
+        "alt": "Livre para usar"
+      }
+    ]
+  },
+  "downloader": {
+    "title": "Downloader de vídeos de curtas do YouTube",
+    "description": "Não é possível baixar vídeos de curtas do YouTube no aplicativo oficial do YouTube. Para baixar vídeos de curtas do YouTube, você deve usar nosso site. Você pode marcar nosso site para usá-lo novamente no futuro. De qualquer forma, se você tiver o URL do vídeo de curtas do YouTube, você pode baixar o vídeo para o seu dispositivo. Nosso site baixa vídeos diretamente do servidor do YouTube para o seu dispositivo.",
+    "share": "Compartilhe este site ..."
+  },
+
+  "shorts": {
+    "title": "O que é o YouTube Shorts?",
+    "description": "Curtas do YouTube oferecem conteúdo de vídeo de formato curto. <strong>YouTube lançou shorts no YouTube </strong>para competir com outros aplicativos como o Tiktok, carretéis do Instagram. Você não precisa de nenhum aplicativo extra para assistir a curtas do YouTube. Está integrado no oficial<strong>YouTube</strong> aplicativo.",
+    "sub_description": "Assista a um conteúdo infinito em curtas do YouTube por meio de seus dispositivos móveis. Assista a vídeos de sua escolha em formato curto. Se você está entediado com conteúdo de vídeo de formato longo,<strong>Os curtas do YouTube forneceram vídeos com menos de 1 minuto para seu entretenimento.</strong>"
+  },
+  "how_to_make": {
+    "title": "Os curtas do YouTube disponibilizam vídeos com menos de 1 minuto para você entrar.",
+    "description": "Para fazer um vídeo de Curtas do YouTube, siga as etapas fáceis abaixo.",
+    "step1": "1. Abra o aplicativo YouTube em seu telefone.",
+    "step2": "2. Clique no ícone + no meio.",
+    "step3": "3. Clique no botão \"Criar um Short\".",
+    "follow": "Agora siga as instruções na tela para fazer um vídeo de curtas no YouTube."
+  },
+  "how_to_download": {
+    "title": "Como fazer download de curtas do YouTube",
+    "description": "Siga as etapas simples abaixo para baixar o vídeo de curtas do YouTube para o seu dispositivo.",
+    "step1": "1. Abra o vídeo do YouTube Shorts que deseja baixar.",
+    "step2": "2. Clique no ícone Compartilhar ..",
+    "step3": "3. Selecione a opção “Copiar link” para copiar o URL para a área de transferência.",
+    "step4": "4. Insira o URL do vídeo em nosso site e clique na opção Download",
+    "finish": "Agora siga as instruções na tela para fazer um vídeo de curtas no YouTube."
+  },
+  "faqs": {
+    "title": "Perguntas frequentes para download de curtas do YouTube",
+    "faq1": {
+      "title": "Podemos baixar vídeos normais do YouTube usando este site?",
+      "description": "Sim, você pode baixá-los. O processo é o mesmo para baixar vídeos normais do YouTube."
+    },
+    "faq2": {
+      "title": "Posso usar esses vídeos em qualquer lugar?",
+      "description": "Certifique-se de obter a permissão do criador do conteúdo antes de usar o vídeo em qualquer lugar."
+    },
+    "faq3": {
+      "title": "Os shorts do YouTube estão disponíveis para desktop?",
+      "description": "Por enquanto, os shorts do YouTube só funcionam em dispositivos móveis. No futuro, eles podem ou não fornecer suporte para desktop."
+    },
+    "faq4": {
+      "title": " Qual é a duração dos vídeos de curtas do YouTube?",
+      "description": "Os vídeos de curtas do YouTube geralmente têm menos de 60 segundos."
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Téléchargement de vidéos de courts métrages YouTube",
+  "description": "Téléchargez gratuitement des courts métrages YouTube",
+  "search_text": "Collez votre lien Youtube ici",
+  "get_video": "Obtenir la vidéo",
+  "wrong_url": "Get Video",
+  "share": "Partagez ce site...",
+  "home": "Accueil",
+  "blog": "Blog",
+  "contact_us": "Nous contacter",
+  "feature": {
+    "title": "Fonctionnalités de téléchargement de vidéos YouTube Shorts",
+    "description": "Liste des principales fonctionnalités",
+    "features1": [
+      {
+        "title": "Téléchargement rapide",
+        "description": "Téléchargez de courtes vidéos YouTube à une vitesse ultra-rapide. Nous ne limitons pas la bande passante pour le Téléchargement rapide de vidéos.",
+        "alt": "Téléchargement rapide"
+      },
+      {
+        "title": "Sans limites",
+        "description": "Téléchargez autant de vidéos que vous le souhaitez. Aucune inscription ou connexion requise pour télécharger de courtes vidéos.",
+        "alt": "Sans limites"
+      },
+      {
+        "title": "Entièrement sécurisé",
+        "description": "Aucun risque de malware sur votre appareil. Notre site Web est entièrement sécurisé avec le protocole HTTPS. Téléchargement sans souci.",
+        "alt": "Entièrement sécurisé"
+      }
+    ],
+    "features2": [
+      {
+        "title": "Sélectionnez la qualité",
+        "description": "Vous pouvez télécharger des vidéos de différentes qualités, avec ou sans son. Sélectionnez la qualité vidéo et il téléchargera la vidéo.",
+        "alt": "Sélectionnez la qualité"
+      },
+      {
+        "title": "Convivial",
+        "description": "Notre site Web spécialement conçu pour les utilisateurs mobiles. Site Web entièrement convivial pour rendre votre travail encore plus facile.",
+        "alt": "Convivial"
+      },
+      {
+        "title": "Utilisation gratuite",
+        "description": "Entièrement gratuit pour télécharger de courtes vidéos. Nous ne demandons aucune information d'abonnement ou de connexion à télécharger.",
+        "alt": "Utilisation gratuite"
+      }
+    ]
+  },
+  "downloader": {
+    "title": "Téléchargeur de vidéos de courts métrages YouTube",
+    "description": "Il n'est pas possible de télécharger la vidéo des courts métrages YouTube dans l'application YouTube officielle. Pour télécharger des vidéos de courts métrages YouTube, vous devez utiliser notre site Web. Vous pouvez ajouter notre site Web à vos favoris pour l'utiliser à nouveau à l'avenir. Quoi qu'il en soit, si vous avez l'URL de la vidéo de courts métrages YouTube, vous pouvez télécharger la vidéo sur votre appareil. Notre site Web télécharge directement des vidéos du serveur YouTube sur votre appareil.",
+    "share": "Partagez ce site..."
+  },
+
+  "shorts": {
+    "title": "Qu'est-ce que les courts métrages YouTube",
+    "description": "Les courts métrages YouTube fournissent du contenu vidéo abrégé. <strong>YouTube a lancé les courts métrages YouTube </strong>pour rivaliser avec d'autres applications comme Tiktok, les bobines Instagram. Vous n'avez besoin d'aucune application supplémentaire pour regarder des courts métrages YouTube. Il est intégré dans l'officiel <strong>YouTube</strong> application.",
+    "sub_description": "Regardez du contenu sans fin dans des courts métrages YouTube via vos appareils mobiles. Regardez les vidéos de votre choix sous forme courte. Si vous vous ennuyez avec du contenu vidéo long,<strong> Les courts métrages YouTube ont fourni des vidéos de moins d'une minute pour votre divertissement.</strong>"
+  },
+  "how_to_make": {
+    "title": "Comment faire une courte vidéo YouTube",
+    "description": "Pour créer une vidéo YouTube Shorts, suivez les étapes simples ci-dessous.",
+    "step1": "1. Ouvrez l'application YouTube depuis votre téléphone.",
+    "step2": "2. Cliquez sur + Icône au milieu.",
+    "step3": "3. Appuyez sur le bouton \"Créer un court\" ..",
+    "follow": "Suivez maintenant les instructions à l'écran pour créer une courte vidéo YouTube."
+  },
+  "how_to_download": {
+    "title": "Comment télécharger des courts métrages YouTube",
+    "description": "Suivez les étapes simples ci-dessous pour télécharger la vidéo des courts métrages YouTube sur votre appareil.",
+    "step1": "1. Ouvrez la vidéo YouTube Shorts que vous souhaitez télécharger.",
+    "step2": "2. Cliquez sur l'icône Partager.",
+    "step3": "3. Sélectionnez l'option « Copier le lien » pour copier l'URL dans votre presse-papiers.",
+    "step4": "4. Entrez l'URL de la vidéo sur notre site Web, cliquez sur l'option Télécharger",
+    "finish": "Suivez maintenant les instructions à l'écran pour créer une courte vidéo YouTube."
+  },
+  "faqs": {
+    "title": "FAQ pour le téléchargement de courts métrages YouTube",
+    "faq1": {
+      "title": "Pouvons-nous télécharger des vidéos YouTube normales en utilisant ce site Web ?",
+      "description": "Oui, vous pouvez les télécharger. Le processus est le même pour le téléchargement de vidéos YouTube normales."
+    },
+    "faq2": {
+      "title": "Puis-je utiliser ces vidéos n'importe où ?",
+      "description": "Assurez-vous d'obtenir l'autorisation du créateur de contenu avant d'utiliser la vidéo n'importe où."
+    },
+    "faq3": {
+      "title": "Les courts métrages YouTube sont-ils disponibles pour ordinateur ?",
+      "description": "Pour l'instant, les courts métrages YouTube ne fonctionnent que sur les appareils mobiles. À l'avenir, ils pourront ou non fournir une assistance pour les ordinateurs de bureau."
+    },
+    "faq4": {
+      "title": " Quelle est la durée des courtes vidéos YouTube ?",
+      "description": "Les courtes vidéos YouTube durent généralement moins de 60 secondes."
+    }
+  }
+}

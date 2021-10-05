@@ -1,0 +1,96 @@
+{
+  "title": "YouTube Shorts Video downloaden",
+  "description": "Gratis YouTube-shortvideo's downloaden",
+  "search_text": "Plak hier je YouTube-link",
+  "get_video": "Video ophalen",
+  "wrong_url": "Ingevoerde URL is verkeerd",
+  "share": "Deel deze site...",
+  "home": "Huis",
+  "blog": "Blog",
+  "contact_us": "Neem contact op",
+  "feature": {
+    "title": "YouTube Shorts Video Downloadfuncties",
+    "description": "Lijst met topfuncties",
+    "features1": [
+      {
+        "title": "Snel downloaden",
+        "description": "Download YouTube-shortvideo's met ultrahoge snelheid. We beperken de bandbreedte voor het downloaden van video's niet.",
+        "alt": "Snel downloaden"
+      },
+      {
+        "title": "Geen limiet",
+        "description": "Download zoveel video's als je wilt downloaden. Geen aanmelding of login vereist om korte video's te downloaden.",
+        "alt": "Geen limiet"
+      },
+      {
+        "title": "Volledig veilig",
+        "description": "Geen risico op malware op uw apparaat. Onze website is volledig beveiligd met het HTTPS-protocol. Zorgeloos downloaden.",
+        "alt": "Volledig veilig"
+      }
+    ],
+    "features2": [
+      {
+        "title": "Selecteer kwaliteit",
+        "description": "Je kunt video's van verschillende kwaliteit downloaden, met of zonder geluid. Selecteer de videokwaliteit en het zal de video downloaden",
+        "alt": "Selecteer kwaliteit"
+      },
+      {
+        "title": "Gebruikersvriendelijk",
+        "description": "Onze website speciaal ontworpen voor mobiele gebruikers. Volledig gebruiksvriendelijke website om je werk nog makkelijker te maken.",
+        "alt": "Gebruikersvriendelijk"
+      },
+      {
+        "title": "Gratis te gebruiken",
+        "description": "Volledig gratis om korte video's te downloaden. We vragen geen abonnements- of inloggegevens om te downloaden.",
+        "alt": "Gratis te gebruiken"
+      }
+    ]
+  },
+  "downloader": {
+    "title": "YouTube Shorts Video Downloader",
+    "description": "Het downloaden van YouTube-shortvideo's in de officiële YouTube-app is niet mogelijk. Om video's van YouTube-shorts te downloaden, moet u onze website gebruiken. U kunt een bladwijzer maken voor onze website om deze in de toekomst opnieuw te gebruiken. Hoe dan ook, als je YouTube shorts video-URL hebt, kun je de video downloaden naar je apparaat. Onze website download video's rechtstreeks van de YouTube-server naar uw apparaat.",
+    "share": "Deel deze site..."
+  },
+
+  "shorts": {
+    "title": "Wat is YouTube Shorts",
+    "description": "YouTube-shorts bieden korte video-inhoud. <strong> YouTube lanceerde YouTube-shorts </strong> om te concurreren met andere apps zoals Tiktok, Instagram-rollen. Je hebt geen extra app nodig om YouTube-shorts te bekijken. Het is geïntegreerd in de officiële <strong>YouTube</strong> app.",
+    "sub_description": "Bekijk eindeloze content in YouTube-shorts via je mobiele apparaten. Bekijk video's naar keuze in korte vorm. Als je je verveelt met lange video-inhoud,<strong> YouTube-shorts leverden video's van minder dan 1 minuut voor uw vermaak.</strong>"
+  },
+  "how_to_make": {
+    "title": "Hoe YouTube Shorts-video te maken",
+    "description": "Volg de onderstaande eenvoudige stappen om een ​​YouTube Shorts-video te maken.",
+    "step1": "1. Open de YouTube-app vanaf je telefoon.",
+    "step2": "2. Klik vanuit het midden op + Icoon.",
+    "step3": "3. Druk op de knop \"Creëer een korte\" ..",
+    "follow": "Volg nu de instructies op het scherm om een ​​korte YouTube-video te maken."
+  },
+  "how_to_download": {
+    "title": "YouTube-shorts downloaden",
+    "description": "Volg de eenvoudige stappen hieronder om de korte YouTube-video naar uw apparaat te downloaden.",
+    "step1": "1. Open YouTube Shorts-video die je wilt downloaden.",
+    "step2": "2. Klik op het pictogram Delen..",
+    "step3": "3. Selecteer de optie \"Kopieer link\" om de URL naar uw klembord te kopiëren.",
+    "step4": "4. Voer de video-URL in op onze website, klik op de optie Downloaden",
+    "finish": "Volg nu de instructies op het scherm om een ​​korte YouTube-video te maken."
+  },
+  "faqs": {
+    "title": "Veelgestelde vragen over het downloaden van YouTube Shorts",
+    "faq1": {
+      "title": "Kunnen we normale YouTube-video's downloaden via deze website?",
+      "description": "Ja, je kunt ze downloaden. Het proces is hetzelfde voor het downloaden van normale YouTube-video's."
+    },
+    "faq2": {
+      "title": "Kan ik deze video's overal gebruiken?",
+      "description": "Zorg ervoor dat je toestemming hebt van de maker van de inhoud voordat je de video ergens gebruikt."
+    },
+    "faq3": {
+      "title": "Zijn YouTube-shorts beschikbaar voor desktop?",
+      "description": "Voorlopig werken YouTube-shorts alleen op mobiele apparaten. In de toekomst kunnen ze al dan niet ondersteuning bieden voor desktop."
+    },
+    "faq4": {
+      "title": " Wat is de lengte van YouTube Shorts-video's?",
+      "description": "YouTube-shortvideo's duren over het algemeen minder dan 60 seconden."
+    }
+  }
+}

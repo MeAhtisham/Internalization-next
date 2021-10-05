@@ -1,0 +1,96 @@
+{
+  "title": " Download di video di cortometraggi di YouTube",
+  "description": "Scarica gratuitamente i video dei cortometraggi di YouTube",
+  "search_text": "Incolla qui il tuo link Youtube",
+  "get_video": "Ottieni video",
+  "wrong_url": "L'URL inserito è sbagliato",
+  "share": "Condividi questo sito...",
+  "home": "Casa",
+  "blog": "Blog",
+  "contact_us": "Contattaci",
+  "feature": {
+    "title": "Funzionalità di download di video di cortometraggi di YouTube",
+    "description": "Elenco delle funzionalità principali",
+    "features1": [
+      {
+        "title": "Download veloce",
+        "description": "Scarica video di cortometraggi di YouTube a velocità ultraveloce. Non limitiamo la larghezza di banda per il download di video.",
+        "alt": "Download veloce"
+      },
+      {
+        "title": "Senza limiti",
+        "description": "Scarica tutti i video che vuoi scaricare. Nessuna registrazione o accesso richiesto per scaricare i video dei cortometraggi.",
+        "alt": "Senza limiti"
+      },
+      {
+        "title": "Completamente sicuro",
+        "description": "Nessun rischio di malware sul tuo dispositivo. Il nostro sito Web è completamente sicuro con il protocollo HTTPS. Download senza preoccupazioni.",
+        "alt": "Completamente sicuro"
+      }
+    ],
+    "features2": [
+      {
+        "title": "Seleziona la qualità",
+        "description": "Puoi scaricare video di diversa qualità, con o senza audio. Seleziona la qualità del video e il video verrà scaricato.",
+        "alt": "Seleziona la qualità"
+      },
+      {
+        "title": "Facile da usare",
+        "description": "Il nostro sito web appositamente progettato per gli utenti mobili. Sito completamente user-friendly per rendere il tuo lavoro ancora più semplice.",
+        "alt": "Facile da usare"
+      },
+      {
+        "title": "Gratuito per l'uso",
+        "description": "Completamente gratuito per scaricare video di cortometraggi. Non chiediamo alcun abbonamento o informazioni di accesso per il download.",
+        "alt": "Gratuito per l'uso"
+      }
+    ]
+  },
+  "downloader": {
+    "title": "Downloader di video di cortometraggi di YouTube",
+    "description": "Non è possibile scaricare video di cortometraggi di YouTube nell'app YouTube ufficiale. Per scaricare video da cortometraggi di YouTube, devi utilizzare il nostro sito web. Puoi aggiungere un segnalibro al nostro sito Web per utilizzarlo di nuovo in futuro. Ad ogni modo, se hai l'URL del video dei cortometraggi di YouTube, puoi scaricare il video sul tuo dispositivo. Il nostro sito Web scarica direttamente i video dal server di YouTube sul tuo dispositivo.",
+    "share": "Condividi questo sito..."
+  },
+
+  "shorts": {
+    "title": "Che cos'è YouTube Shorts",
+    "description": "I cortometraggi di YouTube forniscono contenuti video in formato breve. <strong>YouTube ha lanciato i cortometraggi di YouTube </strong>per competere con altre app come Tiktok, Instagram reels. Non hai bisogno di alcuna app aggiuntiva per guardare i cortometraggi di YouTube. È integrato all'interno del funzionario <strong>YouTube</strong> app.",
+    "sub_description": "Guarda contenuti infiniti nei cortometraggi di YouTube tramite i tuoi dispositivi mobili. Guarda i video di tua scelta in forma breve. Se sei annoiato dai contenuti video di lunga durata,<strong> I cortometraggi di YouTube hanno fornito video di meno di 1 minuto per il tuo intrattenimento.</strong>"
+  },
+  "how_to_make": {
+    "title": "Come realizzare video di cortometraggi su YouTube",
+    "description": "Per realizzare un video di YouTube Shorts, segui i semplici passaggi seguenti.",
+    "step1": "1. Apri l'app YouTube dal tuo telefono.",
+    "step2": "2. Fare clic su + Icona dal centro.",
+    "step3": "3. Premi il pulsante \"Crea un corto\".",
+    "follow": "Ora segui le istruzioni sullo schermo per realizzare un video di cortometraggi di YouTube."
+  },
+  "how_to_download": {
+    "title": "Come scaricare i cortometraggi di YouTube",
+    "description": "Segui i semplici passaggi di seguito per scaricare il video dei cortometraggi di YouTube sul tuo dispositivo.",
+    "step1": "1. Apri il video di YouTube Shorts che desideri scaricare.",
+    "step2": "2. Fare clic sull'icona Condividi..",
+    "step3": "3. Seleziona l'opzione \"Copia collegamento\" per copiare l'URL negli appunti.",
+    "step4": "4. Inserisci l'URL del video nel nostro sito Web, fai clic sull'opzione Download",
+    "finish": "Ora segui le istruzioni sullo schermo per realizzare un video di cortometraggi di YouTube."
+  },
+  "faqs": {
+    "title": "Domande frequenti per il download di cortometraggi di YouTube",
+    "faq1": {
+      "title": "Possiamo scaricare normali video di YouTube utilizzando questo sito Web?",
+      "description": "Sì, puoi scaricarli. Il processo è lo stesso per il download dei normali video di YouTube."
+    },
+    "faq2": {
+      "title": "Posso usare questi video ovunque?",
+      "description": "Assicurati di ottenere l'autorizzazione del creatore del contenuto prima di utilizzare il video ovunque."
+    },
+    "faq3": {
+      "title": "I cortometraggi di YouTube sono disponibili per desktop?",
+      "description": "Per ora, i cortometraggi di YouTube funzionano solo su dispositivi mobili. In futuro, potrebbero o meno fornire supporto per desktop."
+    },
+    "faq4": {
+      "title": "Qual è la durata dei video dei cortometraggi di YouTube?",
+      "description": "I video dei cortometraggi di YouTube sono generalmente inferiori a 60 secondi."
+    }
+  }
+}

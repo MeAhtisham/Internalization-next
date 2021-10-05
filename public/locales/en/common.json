@@ -1,0 +1,95 @@
+{
+  "title": "YouTube Shorts Video Download",
+  "description": "Download YouTube shorts videos for free",
+  "search_text": "Paste your Youtube link here",
+  "get_video": "Get Video",
+  "wrong_url": "Url entered is wrong",
+  "home": "Home",
+  "blog": "Blog",
+  "contact_us": "Contact Us",
+  "feature": {
+    "title": "YouTube Shorts Video Download Features",
+    "description": "List of top features",
+    "features1": [
+      {
+        "title": "Fast Downloading",
+        "description": "Download YouTube shorts videos with ultra-fast speed. We do not limit bandwidth for downloading videos.",
+        "alt": "Fast Downloading"
+      },
+      {
+        "title": "No Limit",
+        "description": "Download as many videos as you want to download. No signup or login required to download shorts videos.",
+        "alt": "No Limit"
+      },
+      {
+        "title": "Fully Secure",
+        "description": "No risk of malware on your device. Our website is fully secure with HTTPS protocol. Worry-free download.",
+        "alt": "Fully Secure"
+      }
+    ],
+    "features2": [
+      {
+        "title": "Select Quality",
+        "description": "You can download videos of different quality, with or without sound. Select the video quality and it will download the video.",
+        "alt": "Select Quality"
+      },
+      {
+        "title": "User-Friendly",
+        "description": "Our website specially designed for mobile users. Fully user-friendly website to make your work even easier.",
+        "alt": "User-Friendly"
+      },
+      {
+        "title": "Free to Use",
+        "description": "Fully free to download shorts videos. We do not ask for any subscription or login information to download.",
+        "alt": "Free to Use"
+      }
+    ]
+  },
+  "downloader": {
+    "title": "YouTube Shorts Video Downloader",
+    "description": "Downloading YouTube shorts video in the official YouTube app is not possible. To download videos from YouTube shorts, you have to use our website. You can bookmark our website to use it again in future. Anyways, If You have YouTube shorts video URL, you can download the video to your device. Our website directly download videos from the YouTube server to your device.",
+    "share": "Share this site..."
+  },
+
+  "shorts": {
+    "title": "What is YouTube Shorts",
+    "description": "YouTube shorts provides short-form video content. <strong>YouTube launched YouTube shorts </strong>to compete with other apps like Tiktok, Instagram reels. You do not need any extra app to watch YouTube shorts. It is integrated within the official <strong>YouTube</strong> app.",
+    "sub_description": "Watch endless content in YouTube shorts via your mobile devices. Watch videos of your choice in short form. If you are bored with long-form video content,<strong> YouTube shorts provided videos under 1 minute for your entertainment.</strong>"
+  },
+  "how_to_make": {
+    "title": "How to Make YouTube Shorts Video",
+    "description": "To make a YouTube Shorts video, follow the below easy steps.",
+    "step1": "1. Open the YouTube app from your phone.",
+    "step2": "2. Click on + Icon from the middle.",
+    "step3": "3. Hit “Create a Short” button..",
+    "follow": "Now follow on-screen instructions to make a YouTube shorts video."
+  },
+  "how_to_download": {
+    "title": "How to Download YouTube Shorts",
+    "description": "Follow the simple steps below to download the YouTube shorts video to your device.",
+    "step1": "1. Open YouTube Shorts video which you wish to download.",
+    "step2": "2. Click on the Share icon..",
+    "step3": "3. Select the “Copy link” option to copy the URL to your clipboard.",
+    "step4": "4. Enter Video URL in our website, click on the Download option",
+    "finish": "Now follow on-screen instructions to make a YouTube shorts video."
+  },
+  "faqs": {
+    "title": "FAQs for YouTube Shorts Download",
+    "faq1": {
+      "title": "Can we download normal YouTube videos using this website?",
+      "description": "Yes, you can download them. The process is the same for downloading normal YouTube videos."
+    },
+    "faq2": {
+      "title": "Can I use these videos anywhere?",
+      "description": "Make sure to get the content creator’s permission before using the video anywhere."
+    },
+    "faq3": {
+      "title": "Is YouTube shorts available for Desktop?",
+      "description": "For now, YouTube shorts only works on mobile devices. In future, they may or may not provide support for desktop."
+    },
+    "faq4": {
+      "title": " What is the length of YouTube Shorts Videos?",
+      "description": "YouTube shorts videos are generally under 60 seconds."
+    }
+  }
+}

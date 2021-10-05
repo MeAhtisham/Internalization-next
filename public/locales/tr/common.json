@@ -1,0 +1,95 @@
+{
+  "title": "YouTube Shorts Video İndirme",
+  "description": "YouTube şort videolarını ücretsiz indirin",
+  "search_text": "Youtube bağlantınızı buraya yapıştırın",
+  "get_video": "Videoyu Al",
+  "wrong_url": "Girilen URL yanlış",
+  "home": "Ev",
+  "blog": "Blog",
+  "contact_us": "Bizimle iletişime geçin",
+  "feature": {
+    "title": "YouTube Shorts Video İndirme Özellikleri",
+    "description": "En iyi özelliklerin listesi",
+    "features1": [
+      {
+        "title": "Hızlı İndirme",
+        "description": "YouTube şort videolarını ultra hızlı bir şekilde indirin. Videoları indirmek için bant genişliğini sınırlamıyoruz.",
+        "alt": "Hızlı İndirme"
+      },
+      {
+        "title": "Limit yok",
+        "description": "İndirmek istediğiniz kadar video indirin. Kısa videolar indirmek için kayıt veya giriş gerekmez.",
+        "alt": "Limit yok"
+      },
+      {
+        "title": "Tamamen Güvenli",
+        "description": "Cihazınızda kötü amaçlı yazılım riski yoktur. Web sitemiz HTTPS protokolü ile tamamen güvenlidir. Endişesiz indirme.",
+        "alt": "Tamamen Güvenli"
+      }
+    ],
+    "features2": [
+      {
+        "title": "Kaliteyi Seçin",
+        "description": "Sesli veya sessiz olarak farklı kalitede videolar indirebilirsiniz. Video kalitesini seçin, videoyu indirecektir.",
+        "alt": "Kaliteyi Seçin"
+      },
+      {
+        "title": "Kullanıcı dostu",
+        "description": "Mobil kullanıcılar için özel olarak tasarlanmış web sitemiz. İşinizi daha da kolaylaştırmak için tamamen kullanıcı dostu web sitesi.",
+        "alt": "Kullanıcı dostu"
+      },
+      {
+        "title": "Kullanımı Ücretsiz",
+        "description": "Şort videoları indirmek için tamamen ücretsiz. İndirmek için herhangi bir abonelik veya giriş bilgisi istemiyoruz.",
+        "alt": "Kullanımı Ücretsiz"
+      }
+    ]
+  },
+  "downloader": {
+    "title": "YouTube Shorts Video İndirici",
+    "description": "uygulamasında YouTube kısa videoları indirmek mümkün değildir. YouTube şortlarından video indirmek için web sitemizi kullanmanız gerekir. Gelecekte tekrar kullanmak için web sitemizi yer imlerine ekleyebilirsiniz. Her neyse, YouTube kısa video URL'niz varsa, videoyu cihazınıza indirebilirsiniz. Web sitemiz, videoları doğrudan YouTube sunucusundan cihazınıza indirir.",
+    "share": "Bu siteyi paylaş..."
+  },
+
+  "shorts": {
+    "title": "YouTube Shorts Nedir?",
+    "description": "YouTube şortları, kısa biçimli video içeriği sağlar. <strong>YouTube, YouTube kısa filmlerini başlattı </strong>Tiktok, Instagram makaraları gibi diğer uygulamalarla rekabet etmek için. YouTube şortlarını izlemek için ekstra bir uygulamaya ihtiyacınız yok. Resmi kuruma entegre edilmiştir. <strong>YouTube</strong> uygulama.",
+    "sub_description": "Mobil cihazlarınız aracılığıyla sınırsız YouTube kısa içeriği izleyin. Seçtiğiniz videoları kısa biçimde izleyin. Uzun biçimli video içeriklerinden sıkıldıysanız,<strong>YouTube kısa videoları, eğlenceniz için 1 dakikadan kısa videolar sağladı.</strong>"
+  },
+  "how_to_make": {
+    "title": "YouTube Shorts Videosu Nasıl Yapılır?",
+    "description": "Bir YouTube Shorts videosu yapmak için aşağıdaki kolay adımları izleyin.",
+    "step1": "1. Telefonunuzdan YouTube uygulamasını açın.",
+    "step2": "2. Ortadan + Simgeye tıklayın.",
+    "step3": "3. “Kısa Oluştur” düğmesine basın..",
+    "follow": "Şimdi bir YouTube kısa video yapmak için ekrandaki talimatları izleyin."
+  },
+  "how_to_download": {
+    "title": "YouTube Shorts Nasıl İndirilir",
+    "description": "YouTube kısa videosunu cihazınıza indirmek için aşağıdaki basit adımları izleyin.",
+    "step1": "1. İndirmek istediğiniz YouTube Shorts videosunu açın.",
+    "step2": "2. Paylaş simgesine tıklayın.",
+    "step3": "3. URL'yi panonuza kopyalamak için “Bağlantıyı kopyala” seçeneğini seçin.",
+    "step4": "4. Web sitemize Video URL'sini girin, İndir seçeneğine tıklayın",
+    "finish": "Şimdi bir YouTube kısa video yapmak için ekrandaki talimatları izleyin."
+  },
+  "faqs": {
+    "title": "YouTube Shorts İndirmeyle İlgili SSS",
+    "faq1": {
+      "title": "Bu web sitesini kullanarak normal YouTube videolarını indirebilir miyiz?",
+      "description": "Evet, onları indirebilirsiniz. İşlem, normal YouTube videolarını indirmek için aynıdır."
+    },
+    "faq2": {
+      "title": "Bu videoları herhangi bir yerde kullanabilir miyim?",
+      "description": "Videoyu herhangi bir yerde kullanmadan önce içerik oluşturucunun iznini aldığınızdan emin olun."
+    },
+    "faq3": {
+      "title": "YouTube şortları Masaüstü için kullanılabilir mi?",
+      "description": "Şu an için YouTube şortları yalnızca mobil cihazlarda çalışıyor. Gelecekte, masaüstü için destek sağlayabilirler veya sağlamayabilirler."
+    },
+    "faq4": {
+      "title": " YouTube Kısa Videolarının uzunluğu nedir?",
+      "description": "YouTube kısa videoları genellikle 60 saniyenin altındadır."
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Muat turun Video Seluar YouTube",
+  "description": "Muat turun video seluar pendek YouTube secara percuma",
+  "search_text": "Tampal pautan Youtube anda di sini",
+  "get_video": "Dapatkan Video",
+  "wrong_url": "Url yang dimasukkan salah",
+  "share": "Kongsi laman web ini ...",
+  "home": "Rumah",
+  "blog": "Blog",
+  "contact_us": "Hubungi Kami",
+  "feature": {
+    "title": "Ciri Muat turun Video Shorts YouTube",
+    "description": "Senarai ciri teratas",
+    "features1": [
+      {
+        "title": "Muat turun pantas",
+        "description": "Muat turun video seluar pendek YouTube dengan kelajuan ultra cepat. Kami tidak menghadkan lebar jalur untuk memuat turun video.",
+        "alt": "Muat turun pantas"
+      },
+      {
+        "title": "Tiada had",
+        "description": "Muat turun seberapa banyak video yang anda mahu muat turun. Tidak diperlukan pendaftaran atau log masuk untuk memuat turun video seluar pendek.",
+        "alt": "Tiada had"
+      },
+      {
+        "title": "Selamat sepenuhnya",
+        "description": "Tidak ada risiko perisian hasad pada peranti anda. Laman web kami selamat sepenuhnya dengan protokol HTTPS. Muat turun tanpa bimbang.",
+        "alt": "Selamat sepenuhnya"
+      }
+    ],
+    "features2": [
+      {
+        "title": "Pilih Kualiti",
+        "description": "Anda boleh memuat turun video dengan kualiti yang berbeza, dengan atau tanpa suara. Pilih kualiti video dan ia akan memuat turun video.",
+        "alt": "Pilih Kualiti"
+      },
+      {
+        "title": "Mesra pengguna",
+        "description": "Laman web kami direka khas untuk pengguna mudah alih. Laman web mesra pengguna sepenuhnya untuk menjadikan kerja anda lebih mudah.",
+        "alt": "Mesra pengguna"
+      },
+      {
+        "title": "Percuma untuk Digunakan",
+        "description": "Percuma untuk memuat turun video seluar pendek. Kami tidak meminta maklumat langganan atau log masuk untuk dimuat turun.",
+        "alt": "Percuma untuk Digunakan"
+      }
+    ]
+  },
+  "downloader": {
+    "title": " Pemuat turun Video Seluar YouTube",
+    "description": "Tidak boleh memuat turun video seluar pendek YouTube dalam aplikasi YouTube rasmi. Untuk memuat turun video dari seluar pendek YouTube, anda harus menggunakan laman web kami. Anda boleh menandakan laman web kami untuk menggunakannya lagi pada masa akan datang. Bagaimanapun, Sekiranya Anda mempunyai URL video pendek YouTube, anda boleh memuat turun video ke peranti anda. Laman web kami memuat turun video secara langsung dari pelayan YouTube ke peranti anda.",
+    "share": "Kongsi laman web ini ..."
+  },
+
+  "shorts": {
+    "title": "Apakah Seluar pendek YouTube",
+    "description": " Seluar pendek YouTube menyediakan kandungan video bentuk pendek. <strong>YouTube melancarkan seluar pendek YouTube </strong>untuk bersaing dengan aplikasi lain seperti Tiktok, gulungan Instagram. Anda tidak memerlukan aplikasi tambahan untuk menonton seluar pendek YouTube. Ia disatukan dalam pejabat<strong>YouTube</strong>  aplikasi.",
+    "sub_description": "Tonton kandungan tanpa henti di seluar pendek YouTube melalui peranti mudah alih anda. Tonton video pilihan anda dalam bentuk pendek. Sekiranya anda bosan dengan kandungan video berbentuk panjang,<strong> Seluar pendek YouTube menyediakan video kurang dari 1 minit untuk hiburan anda.</strong>"
+  },
+  "how_to_make": {
+    "title": "Cara Membuat Video Seluar pendek YouTube",
+    "description": "Untuk membuat video YouTube Shorts, ikuti langkah mudah di bawah ini.",
+    "step1": "1. Buka aplikasi YouTube dari telefon anda.",
+    "step2": "2. Klik pada + Ikon dari tengah.",
+    "step3": "3. Tekan butang \"Buat Pendek\" ..",
+    "follow": "Sekarang ikuti arahan di skrin untuk membuat video seluar pendek YouTube."
+  },
+  "how_to_download": {
+    "title": "Cara memuat turun seluar pendek YouTube",
+    "description": "Ikuti langkah mudah di bawah untuk memuat turun video seluar pendek YouTube ke peranti anda.",
+    "step1": "1. Buka video YouTube Shorts yang ingin anda muat turun.",
+    "step2": "2. Klik pada ikon Kongsi ..",
+    "step3": "3. Pilih pilihan \"Salin pautan\" untuk menyalin URL ke papan keratan anda.",
+    "step4": "4. Masukkan URL Video di laman web kami, klik pada pilihan Muat turun",
+    "finish": "Sekarang ikuti arahan di skrin untuk membuat video seluar pendek YouTube."
+  },
+  "faqs": {
+    "title": "Soalan Lazim untuk Muat turun Seluar pendek YouTube",
+    "faq1": {
+      "title": "Bolehkah kita memuat turun video YouTube biasa menggunakan laman web ini?",
+      "description": "Ya, anda boleh memuat turunnya. Prosesnya sama untuk memuat turun video YouTube biasa."
+    },
+    "faq2": {
+      "title": "Bolehkah saya menggunakan video ini di mana sahaja?",
+      "description": "Pastikan anda mendapat kebenaran pembuat kandungan sebelum menggunakan video di mana sahaja."
+    },
+    "faq3": {
+      "title": "Adakah seluar pendek YouTube tersedia untuk Desktop?",
+      "description": "Buat masa ini, seluar pendek YouTube hanya berfungsi pada peranti mudah alih. Di masa depan, mereka mungkin atau mungkin tidak memberikan sokongan untuk desktop."
+    },
+    "faq4": {
+      "title": "Berapakah panjang Video Seluar YouTube?",
+      "description": "Video pendek YouTube biasanya kurang dari 60 saat."
+    }
+  }
+}
